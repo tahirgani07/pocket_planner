@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "355477576579",
+    "firebase_url": "https://financialsystem-3be28.firebaseio.com",
+    "project_id": "financialsystem-3be28",
+    "storage_bucket": "financialsystem-3be28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355477576579:android:95efcbbe114983688274b6",
+        "android_client_info": {
+          "package_name": "com.tahir.financial_and_tax_planning_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355477576579-uaioq5h5phmo4g4i7n0rakj48n88mivv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tahir.financial_and_tax_planning_app",
+            "certificate_hash": "0006d597e9f95ed9aa1f4d352324ad0754bf65ad"
+          }
+        },
+        {
+          "client_id": "355477576579-li02hu33pvdtsqec1l08hbjcqrmg6a6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq56wf8vk2OVamZWYxV0xI4gbeOTKIHnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355477576579-li02hu33pvdtsqec1l08hbjcqrmg6a6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
