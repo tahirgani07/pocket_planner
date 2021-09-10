@@ -5,6 +5,7 @@
 
 # Screenshots:
 
+<div style="display: inline-block">
 <img src="https://user-images.githubusercontent.com/69116292/132897975-5e17ff7a-3ac8-4acc-b8c3-d800d0b04c20.png" width="200" />
 
 <img src="https://user-images.githubusercontent.com/69116292/132898004-3d8a5fbd-0972-4eb7-ad26-07b2eab37a56.png" width="200" />
@@ -12,6 +13,7 @@
 <img src="https://user-images.githubusercontent.com/69116292/132898030-e7a19d27-48b3-4472-90dd-b886890d6fb0.png" width="200" />
 
 <img src="https://user-images.githubusercontent.com/69116292/132898032-fc429669-593a-487d-bee6-13633b3a681a.png" width="200" />
+ </div>
 
 <img src="https://user-images.githubusercontent.com/69116292/132898033-7c233128-11e9-468a-b97b-443913827b6a.png" width="200" />
 
